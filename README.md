@@ -1,9 +1,9 @@
-  👋 Hi there, I'm Evangelos Bakogiannis! I recently graduated with a degree in Computer Science and ICT, and I'm excited to start my career as a Front End Web Developer. I have a solid foundation in HTML, SCSS and JavaScript, and I'm eager to apply my skills to build visually appealing and user-friendly web applications. While I may not have experience with specific JS frameworks, I'm confident in my ability to adapt and learn quickly. I have a can-do attitude, and I'm always looking for new challenges to push myself to the next level. I'm excited to work with others to build amazing web experiences that users will love.
+👋 Hi, I'm Evangelos Bakogiannis!
+I'm an aspiring Data Analyst with a strong interest in turning data into meaningful insights. My main focus is on **Power BI**, where I build interactive dashboards and reports that help transform raw data into clear, actionable stories.
 
+I also work with **SQL** to query and analyze data, and with **Python** for data exploration and problem-solving. I’m continuously expanding my skills through personal projects and self-study, with the goal of starting my career as a Data Analyst.
 
-<br>
-
-
-- 🔭 I’m currently working as a Freelancer
-- 🌱 I’m currently honing my skills in HTML/SCSS/JS, while experimenting with JS Frameworks
-- 📫 How to reach me: vaggelis.bakogiannis@gmail.com
+🔍 What I’m currently working on:
+- Developing Power BI projects to strengthen my skillset
+- Expanding my SQL and Python knowledge for data analysis
+- Exploring best practices in data visualization and reporting
